@@ -1,0 +1,32 @@
+div img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: center;
+}
+
+u {
+padding: 0.1rem;
+}
+h1 {
+    text-align: center;
+    font-family: 
+}
+main {
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+}
+
+header {
+background-color:  rgb(125,22,142,38%)
+
+}
+
+footer {
+    background-color: rgb(125,22,142,38%)
+}
+img {
+    margin: 0 auto;
+
+}
